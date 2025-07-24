@@ -1,12 +1,9 @@
-# React + Vite
+# My First React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first project created using React. I built it to practice React basics, JSX, components, props, and states.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- This project is created using **Create React App**.
+- It contains a simple component structure to understand React fundamentals.
+- Practiced how to render elements dynamically and use CSS styling.
